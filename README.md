@@ -1,2 +1,4 @@
-#Data Structure:
-Exploring ideas for efficiency and creativity with object oriented programming and data structures with languages 
+
+#Data Structures
+Exploring efficiency and creativity through object-oriented programming and data structures across various programming languages.
+
